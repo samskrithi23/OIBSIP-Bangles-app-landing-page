@@ -1,1 +1,1 @@
-# OIBSIP-Bangles-app-landing-page
+# OIBSIP-landing-page-of-Bangles-website
